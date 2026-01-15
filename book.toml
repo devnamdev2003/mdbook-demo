@@ -1,0 +1,5 @@
+[book]
+title = "mdBook Demo"
+authors = ["Dev Namdev"]
+language = "en"
+src = "src"
