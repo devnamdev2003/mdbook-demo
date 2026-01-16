@@ -1,13 +1,13 @@
 # Topics
 
-### [Python](../python)
+### [Python](./python)
 
-### [C++](../cpp)
+### [C++](./cpp)
 
-### [MSSQL](../mssql)
+### [MSSQL](./mssql)
 
-### [JavaScript](../javascript)
+### [JavaScript](./javascript)
 
-### [AWS](../aws)
+### [AWS](./aws)
 
-### [AWS-Hands-On](../aws-hands-on)
+### [AWS-Hands-On](./aws-hands-on)
