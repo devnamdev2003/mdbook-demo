@@ -6,4 +6,4 @@ src = "src"
 
 
 [build]
-build-dir = "../../docs/python"
+build-dir = "../../book/python"

@@ -5,4 +5,4 @@ language = "en"
 src = "src"
 
 [build]
-build-dir = "../../docs/aws"
+build-dir = "../../book/aws"
