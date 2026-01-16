@@ -23,8 +23,11 @@ jobs:
         with:
           mdbook-version: latest
 
-      - name: Build book
-        run: build-books.bat
+      - name: Make build script executable
+        run: chmod +x build-books.sh
+
+      - name: Build mdBooks
+        run: ./build-books.sh
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
